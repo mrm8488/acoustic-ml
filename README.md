@@ -5,3 +5,5 @@ code for the article: [Acoustic activity recognition in JavaScript](https://dev.
 Live demos: 
   - https://mrm8488.github.io/acoustic-ml/
   - https://ml-acoustic.netlify.com/
+  
+  Translation for Spanish was added
